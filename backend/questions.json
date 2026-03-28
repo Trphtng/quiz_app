@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "question": "React là thư viện của ngôn ngữ nào?",
+    "options": ["Python", "JavaScript", "Java", "C#"],
+    "correct_answer": "JavaScript"
+  },
+  {
+    "id": 2,
+    "question": "HTML là viết tắt của?",
+    "options": ["Hyper Text Markup Language", "Home Tool Markup Language", "Hyperlinks and Text Markup Language", "High Tech Modern Language"],
+    "correct_answer": "Hyper Text Markup Language"
+  },
+  {
+    "id": 3,
+    "question": "Python được tạo ra bởi ai?",
+    "options": ["Guido van Rossum", "Bjarne Stroustrup", "Dennis Ritchie", "Brendan Eich"],
+    "correct_answer": "Guido van Rossum"
+  },
+  {
+    "id": 4,
+    "question": "CSS dùng để làm gì?",
+    "options": ["Xử lý logic", "Thiết kế giao diện", "Kết nối cơ sở dữ liệu", "Tạo máy chủ"],
+    "correct_answer": "Thiết kế giao diện"
+  },
+  {
+    "id": 5,
+    "question": "JavaScript chạy ở đâu?",
+    "options": ["Máy chủ", "Trình duyệt", "Cơ sở dữ liệu", "Hệ điều hành"],
+    "correct_answer": "Trình duyệt"
+    }
+]
